@@ -1,0 +1,14 @@
+yandex/**
+!yandex/*.py
+
+**/DGI
+
+GREET/**
+!GREET/*.py
+
+ACM/*
+!ACM/ACM-Pytorch/
+ACM/ACM-Pytorch/**
+!ACM/ACM-Pytorch/*.py
+
+**/res
