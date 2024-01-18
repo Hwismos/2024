@@ -30,8 +30,6 @@
 
 - `torch를` import하여 확인한 결과, GRACE는 `8.3.2` 버전의 cuDNN이 설치되어 있음
 
-![](GPU_table.png)
-
 - 가상환경 내 pip를 이용하여 tensorflow-gpu 2.11 버전을 설치
 
 <!--  -->
