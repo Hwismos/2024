@@ -1,6 +1,14 @@
+**.yaml
+**.csv
+**.txt
+**.npz
+**.pt
+
 projects/240118_TensorFlow/GAT/**
 projects/240118_TensorFlow/GCN/*
 projects/240118_TensorFlow/GraphSAGE/**
 projects/240118_TensorFlow/LightGCN/**
 
-**.yaml
+projects/240118_HomoGraphCharacteristics/GREET/**
+projects/240118_HomoGraphCharacteristics/yandex/**
+projects/240118_HomoGraphCharacteristics/data/**
