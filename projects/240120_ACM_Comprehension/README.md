@@ -17,4 +17,4 @@
 
 ## Revisiting Heterophily For Graph Neural Networks
 
-- 요약 마크다운 링크
+- [ACM.md](https://github.com/Hwismos/2024/blob/main/references/ACM.md)
