@@ -14,3 +14,10 @@ projects/240118_HomoGraphCharacteristics/yandex/**
 projects/240118_HomoGraphCharacteristics/data/**
 
 projects/240120_ACM_Comprehension/ACM/**
+
+!projects/240225_UDT_extend/
+projects/240225_UDT_extend/*
+!projects/240225_UDT_extend/code/
+projects/240225_UDT_extend/code/*
+!projects/240225_UDT_extend/code/*.py
+!projects/240225_UDT_extend/*.ipynb
