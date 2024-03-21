@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python main.py --dataname photo --epochs 70 --lr1 5e-4 --lr2 1e-2 --wd1 0 --wd2 1e-3 --n_layers 1 --hid_dim 2048  --temp 0.75 --moving_average_decay 0.90 --num_MLP 1

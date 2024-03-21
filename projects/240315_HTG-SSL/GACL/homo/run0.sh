@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=5 python main.py --dataname cora --epochs 50 --lr1 5e-4 --lr2 1e-3 --wd1 1e-6 --wd2 1e-5 --n_layers 2 --hid_dim 2048  --temp 1.0 --moving_average_decay 0.97 --num_MLP 1
+# CUDA_VISIBLE_DEVICES=5 python main.py --dataname cora --epochs 5 --lr1 5e-4 --lr2 1e-3 --wd1 1e-6 --wd2 1e-5 --n_layers 2 --hid_dim 2048  --temp 1.0 --moving_average_decay 0.97 --num_MLP 1
