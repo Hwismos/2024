@@ -1,19 +1,22 @@
 **.yaml
 **.csv
-**.txt
-**.npz
-**.pt
+# **.txt
+# **.npz
+# **.pt
 
 projects/240118_TensorFlow/GAT/**
 projects/240118_TensorFlow/GCN/*
 projects/240118_TensorFlow/GraphSAGE/**
 projects/240118_TensorFlow/LightGCN/**
 
+
 projects/240118_HomoGraphCharacteristics/GREET/**
 projects/240118_HomoGraphCharacteristics/yandex/**
 projects/240118_HomoGraphCharacteristics/data/**
 
+
 projects/240120_ACM_Comprehension/ACM/**
+
 
 !projects/240225_UDT_extend/
 projects/240225_UDT_extend/*
@@ -21,3 +24,10 @@ projects/240225_UDT_extend/*
 projects/240225_UDT_extend/code/*
 !projects/240225_UDT_extend/code/*.py
 !projects/240225_UDT_extend/*.ipynb
+
+
+projects/240315_HTG-SSL/GACL/*.md
+projects/240315_HTG-SSL/GACL_copy1/*.md
+projects/240315_HTG-SSL/MUSE/*.md
+projects/240315_HTG-SSL/**/out/**
+projects/240315_HTG-SSL/**/__pycache__/**
